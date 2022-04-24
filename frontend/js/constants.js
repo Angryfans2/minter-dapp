@@ -1,5 +1,5 @@
-const contractAddress = "0xf9A94F23A57027DC4441289e1C4Fb9bEda82316e"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x4511e67c5e092c066ec77711be9c53507d4e9503"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the AngryFans Crypto Pets NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
